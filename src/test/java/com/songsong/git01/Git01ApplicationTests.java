@@ -8,6 +8,7 @@ class Git01ApplicationTests {
 
     @Test
     void contextLoads() {
+        System
     }
 
 }
