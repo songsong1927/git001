@@ -8,6 +8,7 @@ class Git02ApplicationTests {
 
     @Test
     void contextLoads(String name) {
+        sss
     }
 
 }
