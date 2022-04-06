@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class Git01ApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contextLoads(String name) {
         System
     }
 
